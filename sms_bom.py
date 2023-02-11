@@ -1,1 +1,1 @@
-#sms bombing 
+import sms_bom
